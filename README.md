@@ -6,7 +6,7 @@
 - 
 - 📫 Caso queira entrar em contato, o meu e-mail de contato é: fecaravaggio@gmail.com
 
-Obrigado <3
+- Obrigado <3
 
 <!---
 fecaravaggio/fecaravaggio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
