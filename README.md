@@ -1,6 +1,6 @@
 - 👋 Oi! Sou o Felipe (@fecaravaggio), bem-vindo ao meu repositório no Github!
 - 
-- 🌱 Atualmente estou estudando Front-End (HTML5, CSS3, Javascript, React). Porém tenho conhecimento de Java e C!
+- 🌱 Atualmente trabalho com Desenvolvimento front-end (HTML5, CSS3, Javascript, Vue.JS). Também tenho boa experiência em Java e C!
 - 
 - 💞️ Por enquanto, o meu repositório é apenas um lugar onde armazeno os meus estudos dos cursos que faço atualmente. Mas quem sabe, lá pra frente, não pode ter coisas mais legais por aqui? <3
 - 
