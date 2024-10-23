@@ -1,8 +1,8 @@
 - 👋 Oi! Sou o Felipe (@fecaravaggio), bem-vindo ao meu repositório no Github!
 - 
-- 🌱 Atualmente trabalho com Desenvolvimento front-end (HTML5, CSS3, Javascript, Vue.JS). Também tenho boa experiência em Java e C!
+- 🌱 Atualmente trabalho com Análise de Dados na área de Esports. Trabalhando com Python, Java, MySQL, pacote Google (Google Sheets/Google Looker Studio), macros, e por aí vai.
 - 
-- 💞️ Por enquanto, o meu repositório é apenas um lugar onde armazeno os meus estudos dos cursos que faço atualmente. Mas quem sabe, lá pra frente, não pode ter coisas mais legais por aqui? <3
+- 💞️ Por enquanto, o meu repositório é apenas um lugar onde armazeno os meus estudos e repositórios privados de projetos relacionado ao trabalho. Mas quem sabe, lá pra frente, não pode ter coisas mais legais por aqui? <3
 - 
 - 📫 Caso queira entrar em contato, o meu e-mail de contato é: fecaravaggio@gmail.com
 
